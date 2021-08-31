@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .w-1200 {
+    width: 1200px;
+  }
+  .w-520{
+    width: 520px;
+  }
+  .py-xmax{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  .mt-max{
+    margin-top: 3rem;
+  }
+  .mb-max{
+    margin-bottom: 5rem;
+  }
+}
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+html{
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box !important;    /* Firefox, other Gecko */
+  box-sizing: border-box !important;         /* Opera/IE 8+ */
+}
+
+.headHover:hover{
+  color: rgb(231, 156, 16);
+  font-weight: 600;
+}
+.hoverKategori{
+  box-sizing: border-box;
+  transition: .1s all ease-in-out;
+}
+.hoverKategori:hover{
+  font-weight: bold;
+  text-decoration: underline;
+  color: rgb(231, 156, 16);
+}
+.liX li{
+  margin-top: .4rem;
+  margin-bottom: .4rem;
+  cursor: pointer;
+}
+.liX li:hover{
+  text-decoration: underline;
+}
+li{
+  cursor: pointer;
+}
+.prod1hover{
+  transition: all .3s ease;
+}
+.prod1hover:hover{
+  background-color: #EE8C0B;
+}

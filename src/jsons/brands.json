@@ -1,0 +1,111 @@
+[
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15551619355300_SanaOzel.png",
+        "name":"Sana Özel"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15551619355311_SenDeAl.png", 
+        "name":"Sen de Al!"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/automation/2020/12/30/EglenceWeb_202012301831.png",
+        "name":"Kodlar & Hizmetler"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15561619355388_Trendyolmilla.png",
+        "name":"TrendyolMilla"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15521619355152_Mango.png",
+        "name":"Mango"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/5/24/20210524_17061621865162_Pullbear.png",
+        "name":"Pull & Bear"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15521619355148_MadameCoco.png",
+        "name":"Madame Coco"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15511619355115_Koton.png",
+        "name":"Koton"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15521619355157_Mavi.png",
+        "name":"Mavi"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15501619355058_HappinessIst.png",
+        "name":"Happiness Ist."
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15541619355245_Penti.png",
+        "name":"Penti"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15561619355397_USPoloAssn.png",
+        "name":"U.S Polo Assn."
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15501619355012_EnglishHome.png",
+        "name":"English Home"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15521619355154_MangoMan.png",
+        "name":"Mango Man"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15471619354871_Bershka.png",
+        "name":"Bershka"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15511619355083_Ipekyol.png",
+        "name":"İpekyol"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15471619354848_Avva.png",
+        "name":"Avva"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15461619354815_Adidas.png",
+        "name":"Adidas"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15531619355211_Nike.png",
+        "name":"Nike"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15561619355385_TrendAlacati.png",
+        "name":"Trend Alaçatı Stili"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15531619355231_Oysho.png",
+        "name":"Oysho"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15551619355350_Stradivarius.png",
+        "name":"Stradivarius"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15511619355075_Hummel.png",
+        "name":"Hummel"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/automation/2021/5/6/073Dafab10D1473F94CfC5643Cd6_202105061005.png",
+        "name":"Xiaomi"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15571619355442_AcCoAltinyildizClassics.png",
+        "name":"Ac&Co / Altınyıldız Classics"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15471619354822_AltinyildizClassics.png",
+        "name":"ALTINYILDIZ CLASSICS"
+    },
+    {
+        "img":"https://cdn.dsmcdn.com/marketing/datascience/Automation/BrandBoutique/2021/4/25/20210425_15531619355223_Olalook.png",
+        "name":"Olalook"
+    }
+
+]
