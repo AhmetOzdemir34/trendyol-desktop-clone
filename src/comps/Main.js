@@ -4,7 +4,7 @@ import Product2 from '../jsons/product2.json';
 
 const Main = () => {
     return (
-        <div className="flex flex-row flex-nowrap justify-center items items-stretch mt-10 mx-auto w-1200">
+        <div className="flex flex-row flex-nowrap justify-center items items-stretch mt-1 mx-auto w-1200">
             <div className="w-9/12 flex flex-col flex-nowrap justify-center items items-between p-2">
                 {Product.map(p =>{
                     return (

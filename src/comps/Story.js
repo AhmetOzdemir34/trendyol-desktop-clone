@@ -4,19 +4,44 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import brands from '../jsons/brands.json';
 
+function SampleNextArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <div
+        className={className}
+        style={{ ...style, display: "block", background: "black", borderRadius:"50%" }}
+        onClick={onClick}
+      />
+    );
+  }
+  
+  function SamplePrevArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <div
+        className={className}
+        style={{ ...style, display: "block", background: "black", borderRadius:"50%" }}
+        onClick={onClick}
+      />
+    );
+  }
+
 
 const Story = () => {
 
     console.log(brands);
     const settings = {
-        dots: true,
+        dots: false,
         infinite: false,
         speed: 500,
         slidesToShow: 10,
-        slidesToScroll: 9
+        slidesToScroll: 9,
+        nextArrow: <SampleNextArrow />,
+      prevArrow: <SamplePrevArrow />
       };
     return (
-        <div className="w-1200 mx-auto mt-5">
+        <div className="w-full">
+        <div className="w-1200 mx-auto mt-8">
             <Slider {...settings}>
                 {brands.map(b => { 
                     return (
@@ -27,6 +52,7 @@ const Story = () => {
                     )
                 })}     
             </Slider>   
+        </div>
         </div>
     )
 }
